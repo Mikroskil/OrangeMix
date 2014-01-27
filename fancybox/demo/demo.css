@@ -1,0 +1,23 @@
+
+
+/* WebDesignAndSuch.com Demo */
+
+/* demo page styles */
+
+#container-map {
+	width: 780px;  
+	background:#fff;
+	margin: 0 auto; 
+	-webkit-box-shadow: 0px 0px 15px #000;
+	-moz-box-shadow: 0px 0px 15px #000;
+	padding-bottom:30px
+}
+#content-map {padding: 0 20px; text-align:center; line-height:18px }
+
+img {border:0px;}
+
+
+/* demo specific styles */
+.gal {text-align:center}
+.gal img {margin:10px; border:2px solid #ccc}
+.gal img:hover {-webkit-box-shadow: 0px 0px 5px #333;-moz-box-shadow: 0px 0px 5px #333;}
